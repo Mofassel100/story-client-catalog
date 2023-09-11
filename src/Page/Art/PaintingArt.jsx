@@ -1,9 +1,9 @@
-const HomePage = () => {
+const PaintingArt = () => {
   return (
     <div className="grid justify-center items-center h-screen w-screen">
-      ami home page
+      <h1>I am comming Paining Art Soon !</h1>
     </div>
   );
 };
 
-export default HomePage;
+export default PaintingArt;

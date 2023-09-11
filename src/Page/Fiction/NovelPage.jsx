@@ -1,9 +1,9 @@
-const HomePage = () => {
+const NovelPage = () => {
   return (
     <div className="grid justify-center items-center h-screen w-screen">
-      ami home page
+      <h1>I am Novel Comming Soon !</h1>
     </div>
   );
 };
 
-export default HomePage;
+export default NovelPage;

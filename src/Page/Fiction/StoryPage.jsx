@@ -1,9 +1,9 @@
-const HomePage = () => {
+const StoryPage = () => {
   return (
     <div className="grid justify-center items-center h-screen w-screen">
-      ami home page
+      <h1>I am comming soon Story !</h1>
     </div>
   );
 };
 
-export default HomePage;
+export default StoryPage;

@@ -1,9 +1,9 @@
-const HomePage = () => {
+const MyBook = () => {
   return (
     <div className="grid justify-center items-center h-screen w-screen">
-      ami home page
+      <h1>My Book is Comming Soon !</h1>
     </div>
   );
 };
 
-export default HomePage;
+export default MyBook;

@@ -1,18 +1,17 @@
 /* eslint-disable react/jsx-no-undef */
 
-import Navber from "./Navber";
 import Footer from "./Footer";
 import { Outlet } from "react-router-dom";
+import Header from "./Header";
 
-const Main = () => {
+const MainDeshboard = () => {
   return (
     <div>
-      <Navber></Navber>
+      <Header></Header>
       <Outlet />
-
       <Footer></Footer>
     </div>
   );
 };
 
-export default Main;
+export default MainDeshboard;

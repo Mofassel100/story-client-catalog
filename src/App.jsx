@@ -7,7 +7,6 @@ function App() {
     <>
       <div>
         <RouterProvider router={router} />
-        <h1>dkfkdksdkfks</h1>
       </div>
     </>
   );
